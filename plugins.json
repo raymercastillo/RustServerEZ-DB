@@ -18,5 +18,35 @@
     "name": "BetterChat",
     "version": "5.2.8",
     "url": "https://umod.org/plugins/BetterChat.cs"
+  },
+  {
+    "name": "NTeleportation",
+    "version": "1.7.0",
+    "url": "https://umod.org/plugins/NTeleportation.cs"
+  },
+  {
+    "name": "Kits",
+    "version": "3.2.9",
+    "url": "https://umod.org/plugins/Kits.cs"
+  },
+  {
+    "name": "ImageLibrary",
+    "version": "2.0.60",
+    "url": "https://umod.org/plugins/ImageLibrary.cs"
+  },
+  {
+    "name": "Economics",
+    "version": "3.9.0",
+    "url": "https://umod.org/plugins/Economics.cs"
+  },
+  {
+    "name": "Vanish",
+    "version": "1.6.0",
+    "url": "https://umod.org/plugins/Vanish.cs"
+  },
+  {
+    "name": "NoGiveNotices",
+    "version": "0.1.0",
+    "url": "https://umod.org/plugins/NoGiveNotices.cs"
   }
 ]
