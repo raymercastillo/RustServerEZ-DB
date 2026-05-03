@@ -1,0 +1,22 @@
+[
+  {
+    "name": "AdminRadar",
+    "version": "1.3.0",
+    "url": "https://umod.org/plugins/AdminRadar.cs"
+  },
+  {
+    "name": "Backpacks",
+    "version": "3.10.1",
+    "url": "https://umod.org/plugins/Backpacks.cs"
+  },
+  {
+    "name": "GatherManager",
+    "version": "2.2.8",
+    "url": "https://umod.org/plugins/GatherManager.cs"
+  },
+  {
+    "name": "BetterChat",
+    "version": "5.2.8",
+    "url": "https://umod.org/plugins/BetterChat.cs"
+  }
+]
